@@ -23,8 +23,8 @@ npm run dev
 
 ## What's Working
 
-See details in README for [backend](./backend/README.md) and [frontend](./frontend/README.md) sepearately
+See details in README for [backend](./backend) and [frontend](./frontend) sepearately
 
 ## What's Missing
 
-See details in README for [backend](./backend/README.md) and [frontend](./frontend/README.md) sepearately
+See details in README for [backend](./backend) and [frontend](./frontend) sepearately
