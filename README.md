@@ -13,6 +13,7 @@ Additional README files for:
 cd backend
 npm install
 cp .env_dev .env
+mkdir logs
 npm run dev
 
 # start frontend on port 8080

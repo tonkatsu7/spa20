@@ -11,6 +11,7 @@ npm install
 # edit and copy config for local dev
 # Note: you will neeed to supply your Mailgun API credentials here
 cp .env_dev .env
+mkdir logs
 
 # serve with hot reload at localhost:3000
 npm run dev
