@@ -1,0 +1,8 @@
+# Environment configuration variables
+.env
+
+# node
+node_modules/
+
+# IDE
+.idea
