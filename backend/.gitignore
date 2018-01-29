@@ -1,6 +1,9 @@
 # Environment configuration variables
 .env
 
+# logs
+logs/*.log
+
 # node
 node_modules/
 
